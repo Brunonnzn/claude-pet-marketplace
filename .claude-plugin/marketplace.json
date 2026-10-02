@@ -1,0 +1,15 @@
+{
+  "name": "claude-pet-marketplace",
+  "owner": {
+    "name": "Brunonnzn",
+    "url": "https://github.com/Brunonnzn"
+  },
+  "description": "Claude Code mods by Brunonnzn: claude-pet, the orange Claude critter above your prompt.",
+  "plugins": [
+    {
+      "name": "claude-pet",
+      "source": "./claude-pet",
+      "description": "A little orange four-legged Claude critter above the prompt, with claude-cli's spinner words over its head."
+    }
+  ]
+}

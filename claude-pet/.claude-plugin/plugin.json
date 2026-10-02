@@ -1,0 +1,14 @@
+{
+  "name": "claude-pet",
+  "version": "0.1.0",
+  "description": "A little orange four-legged Claude critter above the prompt, with claude-cli's spinner words over its head.",
+  "author": {
+    "name": "Brunonnzn",
+    "url": "https://github.com/Brunonnzn"
+  },
+  "homepage": "https://github.com/Brunonnzn/claude-pet-marketplace",
+  "repository": "https://github.com/Brunonnzn/claude-pet-marketplace",
+  "license": "MIT",
+  "keywords": ["pet", "mascot", "spinner", "fun"],
+  "types": "./types/index.d.ts"
+}
